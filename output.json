@@ -1,0 +1,626 @@
+{
+ "ABCD": {
+  "ABC": {
+   "AB": "A",
+   "BA": "B"
+  },
+  "ACB": {
+   "AC": "A",
+   "CA": "C"
+  },
+  "BAC": {
+   "BA": "B",
+   "AB": "A"
+  },
+  "BCA": {
+   "BC": "B",
+   "CB": "C"
+  },
+  "CAB": {
+   "CA": "C",
+   "AC": "A"
+  },
+  "CBA": {
+   "CB": "C",
+   "BC": "B"
+  }
+ },
+ "ABDC": {
+  "ABD": {
+   "AB": "A",
+   "BA": "B"
+  },
+  "ADB": {
+   "AD": "A",
+   "DA": "D"
+  },
+  "BAD": {
+   "BA": "B",
+   "AB": "A"
+  },
+  "BDA": {
+   "BD": "B",
+   "DB": "D"
+  },
+  "DAB": {
+   "DA": "D",
+   "AD": "A"
+  },
+  "DBA": {
+   "DB": "D",
+   "BD": "B"
+  }
+ },
+ "ACBD": {
+  "ACB": {
+   "AC": "A",
+   "CA": "C"
+  },
+  "ABC": {
+   "AB": "A",
+   "BA": "B"
+  },
+  "CAB": {
+   "CA": "C",
+   "AC": "A"
+  },
+  "CBA": {
+   "CB": "C",
+   "BC": "B"
+  },
+  "BAC": {
+   "BA": "B",
+   "AB": "A"
+  },
+  "BCA": {
+   "BC": "B",
+   "CB": "C"
+  }
+ },
+ "ACDB": {
+  "ACD": {
+   "AC": "A",
+   "CA": "C"
+  },
+  "ADC": {
+   "AD": "A",
+   "DA": "D"
+  },
+  "CAD": {
+   "CA": "C",
+   "AC": "A"
+  },
+  "CDA": {
+   "CD": "C",
+   "DC": "D"
+  },
+  "DAC": {
+   "DA": "D",
+   "AD": "A"
+  },
+  "DCA": {
+   "DC": "D",
+   "CD": "C"
+  }
+ },
+ "ADBC": {
+  "ADB": {
+   "AD": "A",
+   "DA": "D"
+  },
+  "ABD": {
+   "AB": "A",
+   "BA": "B"
+  },
+  "DAB": {
+   "DA": "D",
+   "AD": "A"
+  },
+  "DBA": {
+   "DB": "D",
+   "BD": "B"
+  },
+  "BAD": {
+   "BA": "B",
+   "AB": "A"
+  },
+  "BDA": {
+   "BD": "B",
+   "DB": "D"
+  }
+ },
+ "ADCB": {
+  "ADC": {
+   "AD": "A",
+   "DA": "D"
+  },
+  "ACD": {
+   "AC": "A",
+   "CA": "C"
+  },
+  "DAC": {
+   "DA": "D",
+   "AD": "A"
+  },
+  "DCA": {
+   "DC": "D",
+   "CD": "C"
+  },
+  "CAD": {
+   "CA": "C",
+   "AC": "A"
+  },
+  "CDA": {
+   "CD": "C",
+   "DC": "D"
+  }
+ },
+ "BACD": {
+  "BAC": {
+   "BA": "B",
+   "AB": "A"
+  },
+  "BCA": {
+   "BC": "B",
+   "CB": "C"
+  },
+  "ABC": {
+   "AB": "A",
+   "BA": "B"
+  },
+  "ACB": {
+   "AC": "A",
+   "CA": "C"
+  },
+  "CBA": {
+   "CB": "C",
+   "BC": "B"
+  },
+  "CAB": {
+   "CA": "C",
+   "AC": "A"
+  }
+ },
+ "BADC": {
+  "BAD": {
+   "BA": "B",
+   "AB": "A"
+  },
+  "BDA": {
+   "BD": "B",
+   "DB": "D"
+  },
+  "ABD": {
+   "AB": "A",
+   "BA": "B"
+  },
+  "ADB": {
+   "AD": "A",
+   "DA": "D"
+  },
+  "DBA": {
+   "DB": "D",
+   "BD": "B"
+  },
+  "DAB": {
+   "DA": "D",
+   "AD": "A"
+  }
+ },
+ "BCAD": {
+  "BCA": {
+   "BC": "B",
+   "CB": "C"
+  },
+  "BAC": {
+   "BA": "B",
+   "AB": "A"
+  },
+  "CBA": {
+   "CB": "C",
+   "BC": "B"
+  },
+  "CAB": {
+   "CA": "C",
+   "AC": "A"
+  },
+  "ABC": {
+   "AB": "A",
+   "BA": "B"
+  },
+  "ACB": {
+   "AC": "A",
+   "CA": "C"
+  }
+ },
+ "BCDA": {
+  "BCD": {
+   "BC": "B",
+   "CB": "C"
+  },
+  "BDC": {
+   "BD": "B",
+   "DB": "D"
+  },
+  "CBD": {
+   "CB": "C",
+   "BC": "B"
+  },
+  "CDB": {
+   "CD": "C",
+   "DC": "D"
+  },
+  "DBC": {
+   "DB": "D",
+   "BD": "B"
+  },
+  "DCB": {
+   "DC": "D",
+   "CD": "C"
+  }
+ },
+ "BDAC": {
+  "BDA": {
+   "BD": "B",
+   "DB": "D"
+  },
+  "BAD": {
+   "BA": "B",
+   "AB": "A"
+  },
+  "DBA": {
+   "DB": "D",
+   "BD": "B"
+  },
+  "DAB": {
+   "DA": "D",
+   "AD": "A"
+  },
+  "ABD": {
+   "AB": "A",
+   "BA": "B"
+  },
+  "ADB": {
+   "AD": "A",
+   "DA": "D"
+  }
+ },
+ "BDCA": {
+  "BDC": {
+   "BD": "B",
+   "DB": "D"
+  },
+  "BCD": {
+   "BC": "B",
+   "CB": "C"
+  },
+  "DBC": {
+   "DB": "D",
+   "BD": "B"
+  },
+  "DCB": {
+   "DC": "D",
+   "CD": "C"
+  },
+  "CBD": {
+   "CB": "C",
+   "BC": "B"
+  },
+  "CDB": {
+   "CD": "C",
+   "DC": "D"
+  }
+ },
+ "CABD": {
+  "CAB": {
+   "CA": "C",
+   "AC": "A"
+  },
+  "CBA": {
+   "CB": "C",
+   "BC": "B"
+  },
+  "ACB": {
+   "AC": "A",
+   "CA": "C"
+  },
+  "ABC": {
+   "AB": "A",
+   "BA": "B"
+  },
+  "BCA": {
+   "BC": "B",
+   "CB": "C"
+  },
+  "BAC": {
+   "BA": "B",
+   "AB": "A"
+  }
+ },
+ "CADB": {
+  "CAD": {
+   "CA": "C",
+   "AC": "A"
+  },
+  "CDA": {
+   "CD": "C",
+   "DC": "D"
+  },
+  "ACD": {
+   "AC": "A",
+   "CA": "C"
+  },
+  "ADC": {
+   "AD": "A",
+   "DA": "D"
+  },
+  "DCA": {
+   "DC": "D",
+   "CD": "C"
+  },
+  "DAC": {
+   "DA": "D",
+   "AD": "A"
+  }
+ },
+ "CBAD": {
+  "CBA": {
+   "CB": "C",
+   "BC": "B"
+  },
+  "CAB": {
+   "CA": "C",
+   "AC": "A"
+  },
+  "BCA": {
+   "BC": "B",
+   "CB": "C"
+  },
+  "BAC": {
+   "BA": "B",
+   "AB": "A"
+  },
+  "ACB": {
+   "AC": "A",
+   "CA": "C"
+  },
+  "ABC": {
+   "AB": "A",
+   "BA": "B"
+  }
+ },
+ "CBDA": {
+  "CBD": {
+   "CB": "C",
+   "BC": "B"
+  },
+  "CDB": {
+   "CD": "C",
+   "DC": "D"
+  },
+  "BCD": {
+   "BC": "B",
+   "CB": "C"
+  },
+  "BDC": {
+   "BD": "B",
+   "DB": "D"
+  },
+  "DCB": {
+   "DC": "D",
+   "CD": "C"
+  },
+  "DBC": {
+   "DB": "D",
+   "BD": "B"
+  }
+ },
+ "CDAB": {
+  "CDA": {
+   "CD": "C",
+   "DC": "D"
+  },
+  "CAD": {
+   "CA": "C",
+   "AC": "A"
+  },
+  "DCA": {
+   "DC": "D",
+   "CD": "C"
+  },
+  "DAC": {
+   "DA": "D",
+   "AD": "A"
+  },
+  "ACD": {
+   "AC": "A",
+   "CA": "C"
+  },
+  "ADC": {
+   "AD": "A",
+   "DA": "D"
+  }
+ },
+ "CDBA": {
+  "CDB": {
+   "CD": "C",
+   "DC": "D"
+  },
+  "CBD": {
+   "CB": "C",
+   "BC": "B"
+  },
+  "DCB": {
+   "DC": "D",
+   "CD": "C"
+  },
+  "DBC": {
+   "DB": "D",
+   "BD": "B"
+  },
+  "BCD": {
+   "BC": "B",
+   "CB": "C"
+  },
+  "BDC": {
+   "BD": "B",
+   "DB": "D"
+  }
+ },
+ "DABC": {
+  "DAB": {
+   "DA": "D",
+   "AD": "A"
+  },
+  "DBA": {
+   "DB": "D",
+   "BD": "B"
+  },
+  "ADB": {
+   "AD": "A",
+   "DA": "D"
+  },
+  "ABD": {
+   "AB": "A",
+   "BA": "B"
+  },
+  "BDA": {
+   "BD": "B",
+   "DB": "D"
+  },
+  "BAD": {
+   "BA": "B",
+   "AB": "A"
+  }
+ },
+ "DACB": {
+  "DAC": {
+   "DA": "D",
+   "AD": "A"
+  },
+  "DCA": {
+   "DC": "D",
+   "CD": "C"
+  },
+  "ADC": {
+   "AD": "A",
+   "DA": "D"
+  },
+  "ACD": {
+   "AC": "A",
+   "CA": "C"
+  },
+  "CDA": {
+   "CD": "C",
+   "DC": "D"
+  },
+  "CAD": {
+   "CA": "C",
+   "AC": "A"
+  }
+ },
+ "DBAC": {
+  "DBA": {
+   "DB": "D",
+   "BD": "B"
+  },
+  "DAB": {
+   "DA": "D",
+   "AD": "A"
+  },
+  "BDA": {
+   "BD": "B",
+   "DB": "D"
+  },
+  "BAD": {
+   "BA": "B",
+   "AB": "A"
+  },
+  "ADB": {
+   "AD": "A",
+   "DA": "D"
+  },
+  "ABD": {
+   "AB": "A",
+   "BA": "B"
+  }
+ },
+ "DBCA": {
+  "DBC": {
+   "DB": "D",
+   "BD": "B"
+  },
+  "DCB": {
+   "DC": "D",
+   "CD": "C"
+  },
+  "BDC": {
+   "BD": "B",
+   "DB": "D"
+  },
+  "BCD": {
+   "BC": "B",
+   "CB": "C"
+  },
+  "CDB": {
+   "CD": "C",
+   "DC": "D"
+  },
+  "CBD": {
+   "CB": "C",
+   "BC": "B"
+  }
+ },
+ "DCAB": {
+  "DCA": {
+   "DC": "D",
+   "CD": "C"
+  },
+  "DAC": {
+   "DA": "D",
+   "AD": "A"
+  },
+  "CDA": {
+   "CD": "C",
+   "DC": "D"
+  },
+  "CAD": {
+   "CA": "C",
+   "AC": "A"
+  },
+  "ADC": {
+   "AD": "A",
+   "DA": "D"
+  },
+  "ACD": {
+   "AC": "A",
+   "CA": "C"
+  }
+ },
+ "DCBA": {
+  "DCB": {
+   "DC": "D",
+   "CD": "C"
+  },
+  "DBC": {
+   "DB": "D",
+   "BD": "B"
+  },
+  "CDB": {
+   "CD": "C",
+   "DC": "D"
+  },
+  "CBD": {
+   "CB": "C",
+   "BC": "B"
+  },
+  "BDC": {
+   "BD": "B",
+   "DB": "D"
+  },
+  "BCD": {
+   "BC": "B",
+   "CB": "C"
+  }
+ }
+}
